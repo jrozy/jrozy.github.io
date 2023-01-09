@@ -2,6 +2,32 @@ This is very very scuffed for now, but hopefully I can bother someone at my work
 
 I'll try to keep this blog user-friendly. And hopefully it stays user-friendly for people that don't currently work with me.
 
+9-01-2023 Practical is still strange to me
+
+This might be fault of the fact that I slept 3 hours 
+or so during the night, but I had a lot of trouble 
+grasping concepts today. As a mathematician whenever 
+I try to invent a concept that measures something 
+or gives me information, I tend to first think of
+what do I want from this thing. And today I've ran
+into about 10 definitions of various notions of provenance
+in a paper (provenance is meant to be some mathematical object
+that gives you ready information about the data you have without
+having to search for it, at least as far as I understand, 
+maybe that's wrong). And having 10 different variants of a certain
+measure is fine, because you might use a different one
+depending on what you want. But later in the paper I've
+learnt, that only 2 of these notions for decent mathematical
+objects with nice properties of... for example, always having 
+a definition or being able to manage updating the data. 
+The worst part is, I read the first notion last week 
+and I figured that first notion was a little silly, 
+so I came up with how you'd do an improved version of it. 
+Guess what, the first notion and the notion I came up are
+the only two that have good properties. I'm meeting my 
+supervisor tomorrow, hopefully I'll get an explanation to
+why all these other notions are mentioned at all, because 
+in my eyes they're just useless right now.
 
 6-01-2023 Hello world (of databases)!
 
