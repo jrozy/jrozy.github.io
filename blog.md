@@ -2,6 +2,29 @@ This is very very scuffed for now, but hopefully I can bother someone at my work
 
 I'll try to keep this blog user-friendly. And hopefully it stays user-friendly for people that don't currently work with me.
 
+10-01-2023 Sleeping is good
+
+I've decided to sleep for like 4 hours after sleeping 3 the 
+previous day and then go straight into a meeting with my
+supervisor. I was super sleepy and couldn't really understand
+a thing. So for all PhD students that somehow made it work during
+the undergrad/masters - it only really worked because those
+studies just aren't that hard. If you wanna actually be able
+to work properly, you gotta sleep properly too.
+
+The other realization I had is that being a PhD student is
+a wonderful job, but with that wonderful job also comes
+a responsibilty to show up to your work ready. And I want to
+show up to work ready because what I'm doing is great. None
+of this staying up all night for very little reason nonsense.
+
+I've learnt things about the reasons why things didn't make any
+sense to me yesterday when reading the paper. Apparently they
+wanted to start with properties, but they couldn't prove the
+<properties> -> <unique object> implication, therefore they had to
+settle on <some things used in practice> -> <their properties>.
+
+
 9-01-2023 Practical is still strange to me
 
 This might be fault of the fact that I slept 3 hours 
