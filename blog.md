@@ -21,8 +21,8 @@ of this staying up all night for very little reason nonsense.
 I've learnt things about the reasons why things didn't make any
 sense to me yesterday when reading the paper. Apparently they
 wanted to start with properties, but they couldn't prove the
-<properties> -> <unique object> implication, therefore they had to
-settle on <some things used in practice> -> <their properties>.
+properties -> unique object implication, therefore they had to
+settle on some things used in practice -> their properties.
 
 
 9-01-2023 Practical is still strange to me
