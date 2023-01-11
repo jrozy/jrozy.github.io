@@ -2,6 +2,32 @@ This is very very scuffed for now, but hopefully I can bother someone at my work
 
 I'll try to keep this blog user-friendly. And hopefully it stays user-friendly for people that don't currently work with me.
 
+11-01-2023 I don't feel like I'm doing much
+
+I started feeling why being a PhD and especially starting one
+can be really difficult at times. It really feels like I'm
+just trying to study papers with very little progress done
+each month and nothing comes out of it. But then I talked to
+my supervisor about this, and apparently taking a week to read
+a paper throughly is completely normal, not only that, he said
+that it's really good if I manage to thoroughly understand the
+paper I was working on in a week. I was stunned by this,
+because I normally wouldn't expect taking a week to read a
+10-page long document. But I guess that's how researcher life
+works. 
+
+I also am trying to learn some other than thorough ways
+to read a paper. One of them is supposed to come down to just
+reading the introduction and summary and deducing what paper
+is about from them. The problem is what if a paper doesn't
+have a proper introduction and a summary. Becuase people do
+that. Why? Who knows. 
+
+Oh also apparently throwing in spikey brackets around words
+in a text documents makes .md files not show what's inside.
+I removed them so that the end of yesterday's post makes sense.
+
+
 10-01-2023 Sleeping is good
 
 I've decided to sleep for like 4 hours after sleeping 3 the 
