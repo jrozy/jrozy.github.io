@@ -2,6 +2,34 @@ This is very very scuffed for now, but hopefully I can bother someone at my work
 
 I'll try to keep this blog user-friendly. And hopefully it stays user-friendly for people that don't currently work with me.
 
+13-01-2023 Not focused
+
+Basically a description of today. I found it really difficult
+to focus on anything or do anything at work. Might have 
+something to do with noticing that a game I play in my free
+time got an exciting patch in the morning and really wanting
+to try it? Anyways, it felt so not good I might try to count
+this as half a day off, because there was no progress at all.
+
+This is also a downside of being dilligent about administrative
+things you can do - there is none of them left for when your
+brain just doesn't work.
+
+Now that I'm looking at my meeting notes I've noticed that
+I even made a note that setting up a website would be this
+proactive procastenation. I wish I tried doing that, but I
+guess I didn't.
+
+I've also heard from my supervisors that having 3 papers I'm
+working on is not a bad thing at all as you can come back
+to them and remember them better thanks to that. I also know
+that I should read and try to remember as much as possible
+at this stage since I don't know what will become useful yet.
+Though honestly... I can't wait until I have a scientific
+topic so that I can know what I need and what I don't need
+and start working towards a goal instead.
+
+
 12-01-2023 New Year's celebration day I guess?
 
 I feel like I spent a lot of time today not working... 
@@ -9,7 +37,7 @@ Yea, something like 4 hours of my 7,5h day. And that is with
 considering writing this blog as part of my workday, which
 it is to some extend. Hey, it makes me try to put all the
 research I worked on into not only my own words, but words
-that are understandable to a **wider audience** also known as
+that are understandable to a *wider audience* also known as
 my friends.
 
 Anyways, first of all there was a lunch break and those are
