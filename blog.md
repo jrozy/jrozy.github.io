@@ -2,6 +2,43 @@ This is very very scuffed for now, but hopefully I can bother someone at my work
 
 I'll try to keep this blog user-friendly. And hopefully it stays user-friendly for people that don't currently work with me.
 
+16-01-2023 Wandering into forest of semirings
+
+Hi there! I'm in a good mood because that's what productive
+days do to me. Surprising, right?!
+
+So why was this day very productive? I have no idea really
+about the work-organizational reasons, but I'll just write
+as much as I remember for what happened early in the day.
+If I do the same thing about multiple days when I ended up
+in a good mood maybe the correlation will show me a way to
+make having good days be a routine rather than an exception.
+
+I didn't really sleep all that much, I had a super lazy morning
+and I didn't feel like today was gonna be great. I was pretty
+strongly distracted in the metro, I showed up at work at around
+11:30, so I figured I'd skip lunch so that I can maybe leave
+around roughly 7 hours and not feel too bad about it. Then
+I started doing some simple administrative stuff which took
+like an hour but wasn't too tiring. And finally after that I
+think I reluctantly sat down to reading papers. Oh, before
+papers are also made a TODO list and that was probably very
+helpful for my mood.
+
+What really made me happy was the fact that I got to experiment
+with a certain semiring, which is a called tropical. And it
+was important for my work, because there is a mathematically
+pretty notion of provenance (if you recall some blog about 
+a week ago that I posted provenance is something that tells
+you where your knowledge came from), which usually isn't easy
+to compute, but if you consider it over a tropical semiring,
+then it becomes easy to compute. And that's great!.
+So I started searching for semirings that'd behave similarly
+to the tropical one and looking for the notion of a semiring
+that'd capture the behavior of all semirings where my pretty
+notion of provenance is easy to compute.
+
+
 13-01-2023 Not focused
 
 Basically a description of today. I found it really difficult
