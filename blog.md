@@ -2,6 +2,54 @@ This is very very scuffed for now, but hopefully I can bother someone at my work
 
 I'll try to keep this blog user-friendly. And hopefully it stays user-friendly for people that don't currently work with me.
 
+19-01-2023 Research question time
+
+So today, and it was surprising to me, I expected this
+to happen next week, Pierre presented me the research
+questions my supervisors were considering to give me for
+the upcoming months. Since that happened at the start of
+my workday (let me not talk about why the start of my
+workday was at 1pm), I had trouble focusing on anything
+else. There were 3 options, but for me this is essentially
+1 major choice and 1 minor choice.
+
+So the major choice is choosing between working on some
+automata-related adblocker things or database theory. Why
+is that major? I've never done anything even remotely close
+to practical. I'm a math major after all. And now I have an
+option to work on adblock, which is an incredibly practical
+piece of software. And apparently I can apply my theoretical
+knowledge there too. Sounds great doesn't it? It's almost
+like... it sounds a bit too good. It seems to be checking
+all the boxes for the things I've been missing in my 
+academic career. But usually when a completely new thing checks
+all the boxes, it also unticks some boxes that you had no
+idea that were important to you.
+
+Some little background that not all of you probably know.
+When I was choosing my uni, I chose the one in the city
+that I didn't know over the one my high school was in.
+Then I ran a maths club while having ZERO idea on how
+students' interests clubs are supposed to look like.
+And finally I went for an internship to a country where
+I could barely say a sentence in the only language most
+people speak. And then I stayed in that country where
+I can barely communicate with people, because I had an
+opportunity for a new start in a different city, despite
+the internship not finishing well. I have an active bias
+towards jumping into new and potentially dangerous things.
+But here there's doubt. I don't really know where the doubt
+comes from. Maybe it's getting old. Maybe it's the part
+where I learned over time how important these boxes I 
+had no idea existed can be. And that's why the choice is
+difficult.
+
+I also mentioned that there was a minor choice, it's between
+two database theory topics if I don't choose to go into
+adblockers. And I can't even recall what the choices were,
+that is how minor that choice is.
+
+
 18-01-2023 Finishing up things
 
 It seems as though I'm almost done with a thorough read
