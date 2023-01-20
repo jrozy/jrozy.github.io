@@ -50,6 +50,7 @@ adblockers. And I can't even recall what the choices were,
 that is how minor that choice is.
 
 
+
 18-01-2023 Finishing up things
 
 It seems as though I'm almost done with a thorough read
