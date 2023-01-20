@@ -2,6 +2,26 @@ This is very very scuffed for now, but hopefully I can bother someone at my work
 
 I'll try to keep this blog user-friendly. And hopefully it stays user-friendly for people that don't currently work with me.
 
+20-01-2023 Working on practical things
+
+As you see in the title, I made the only correct choice
+and decided to work on Adblock things. Since it's all new
+to me I got tired very quickly, therefore this entry will
+be rather short.
+
+Security stuff is scary. This could be a whole another
+paragraph, but apparently you can try to identify users by
+ad-bombing them and checking which ones get blocked and
+which ones do not. 
+
+The whole ad stuff is a bit confusing to me as well. The thing
+I'm doing should be very very simple from the theoretical
+point of view, because it's just compressing some number of
+expressions into a smaller one, which express the same thing.
+And that is a very standard problem. Yet someone has to do it
+and that someone is probably me.
+
+
 19-01-2023 Research question time
 
 So today, and it was surprising to me, I expected this
