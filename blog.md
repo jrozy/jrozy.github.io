@@ -2,6 +2,37 @@ This is very very scuffed for now, but hopefully I can bother someone at my work
 
 I'll try to keep this blog user-friendly. And hopefully it stays user-friendly for people that don't currently work with me.
 
+26-01-2023 Maybe back to the old ways?
+
+First of all, I don't get why, but I get super stressed
+about going to meetings. Probably it's the awful impact
+that this whole internship had on me. Therefore I arrived
+at work at like 2pm, which is not good for anyone and
+especially my leaving early. I talked about it to my
+supervisor during the meeting though, I'm not sure I'll
+have time to take advantage of the psychological suppport
+line today, but I probably should. I should actually 
+promise myself to do it either today or tomorrow after
+work.
+
+Anyways, I put a thing in the title and don't worry, I'm not
+giving up on doing stuff for Adblock. Just... my supervisor
+showed me how to turn that problem into a research problem.
+And solving that research problem sounds quite nice. And then
+I can help explaining my paper on that research problem to
+someone that will be actually developing Adblock based on that
+paper. This way I can avoid coding. And that is so much better
+for me because I hate coding so much. And more importantly I'm
+solving a research problem, which is something I've done many
+many many times. Not some practical stuff. Yet when someone
+asks me what I'm doing for work, I can give them the Adblock
+motivation. Becuase that's the real online-life problem that
+I started from. It feels like the best of both worlds. Now
+I just need to acquire the skill to turn real life problems
+into math problems so that I can solve real life problems
+using math.
+
+
 25-01-2023 I am frustrated and going nowhere
 
 So yea... Title. So why do I think that and where does the
