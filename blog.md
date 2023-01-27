@@ -2,6 +2,35 @@ This is very very scuffed for now, but hopefully I can bother someone at my work
 
 I'll try to keep this blog user-friendly. And hopefully it stays user-friendly for people that don't currently work with me.
 
+27-01-2023 Another short day
+
+I signed myself up for a French course! It turns out I'm
+a complete beginner, who would've thought. It has me a bit
+worried that one of the teachers I talked to today barely
+speaks English, but I had a Spanish teacher in high school
+who talked to us mostly in Spanish since lesson 1 and 
+I actually remember quite a bit still. And this is despite
+all of my Spanish experience being limited to 3 years of
+2 45-minute classes per week (or maybe it was just 1/week?).
+
+For the math stuff, I formally wrote down 5 problems which
+are all strongly correlated questions about compressing
+lists of words into shortest possible regular expressions.
+The next step is to think of the interactions between most
+of them and then picking one that is the easiest to approach.
+
+I was also setting up latex because I wanted to send the
+statements of the problems to my supervisors and installing
+the compiler is quite annoying. Essentially if you don't
+search through the options well then it will try to install
+every single latex package available. And for those not
+familliar with latex - that's a lot. Then it takes 1,5 hours
+to unpack all those useless things. Why choose to have Windows
+on my work computer again? Pulling directly the packages
+I want with Linux systems is so much easier. Oh well, I'll
+manage I guess. Either that or reinstall my OS.
+
+
 26-01-2023 Maybe back to the old ways?
 
 First of all, I don't get why, but I get super stressed
