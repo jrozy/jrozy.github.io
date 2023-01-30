@@ -2,6 +2,30 @@ This is very very scuffed for now, but hopefully I can bother someone at my work
 
 I'll try to keep this blog user-friendly. And hopefully it stays user-friendly for people that don't currently work with me.
 
+30-01-2023 Many many problems
+
+Don't worry, it's not real-life problems. It's research
+problems that the title is about. And many research problems
+is a good thing. Granted most of them are like applying the
+same small change to every question I previously had, so the
+number or problems I'm getting gets artificially multiplied
+by 6. But the cool thing is, I don't have answers to any of
+them. I drew a graph of "if I know how to answer this, then 
+I know how to answer that". And it actually has many arrows
+and everything has either an incoming or an outgoing arrow.
+And that is also cool, because that means I haven't flew away
+to another planet while I was trying to figure out different
+questions about the initial problem Google gave Adblock.
+
+Also I don't get how people work 8 hours a day. I've worked
+for like 6, but in reality like 4 and I'm crazy tired. I guess
+it's busywork that they're doing a lot of the time and today
+I was doing mostly creative thinking, which is by far the most
+exhausting part of being a PhD. And also I let myself get 
+frustrated by technical issues. Turns out being frustrated
+makes you tired, who would've thought.
+
+
 27-01-2023 Another short day
 
 I signed myself up for a French course! It turns out I'm
