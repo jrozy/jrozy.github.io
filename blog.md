@@ -2,6 +2,29 @@ This is very very scuffed for now, but hopefully I can bother someone at my work
 
 I'll try to keep this blog user-friendly. And hopefully it stays user-friendly for people that don't currently work with me.
 
+31-01-2023 Arriving too early
+
+So today I've managed to pair up the late departure from
+the first week of work with early arrival today. It's good
+to learn when your office building opens and closes within 
+the first month of working there, right? And I had to learn
+both the hours the hard way. At least the security guard was
+nice to me and let me in before 8am :D
+
+I also was supposed to have a meeting today, but then one of
+my supervisors got sick and the other one assumed that means
+the meeting is cancelled. Fortunately I was annoying enough
+for him to reschedule it 4 hours later and we got it done.
+The unfortunate part was the fact that I haven't really done
+a thing in these 4 hours, unless you count putting together
+puzzles in the building's chill room as doing a thing. Well
+nothing work related that is. I prepared for the meeting
+though and did some paperwork, so it isn't the worst day ever.
+In fact it's probably better than most of my meeting days.
+Oh also, today was my first not completely miserable meeting
+day, so that's gotta count for something.
+
+
 30-01-2023 Many many problems
 
 Don't worry, it's not real-life problems. It's research
