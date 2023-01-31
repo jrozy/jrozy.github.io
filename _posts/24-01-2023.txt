@@ -1,0 +1,27 @@
+24-01-2023 New stuff
+
+So first of all, no post yesterday because I took a day off.
+And that was because I can't really manage my own well-being,
+especially on weekends. But this blog is mostly about working
+as a PhD student, so I'm not going to get into the details
+of how messed up my mental state is.
+
+I moved onto the adblock thingies and I'm very unsure of what
+I'm doing. I don't even know how to write about it. It is so
+overwhelming. I don't think writing the algorithm I need is
+going to be easy, because it's some sort of split up a lot of
+things into pieces that look similar sorta thing. Those are
+usually tough.
+
+Also I was looking for documentation and I felt like it was
+a bit messy. Yes, I curse you Google. Might be because I'm not
+used to searching stuff for work straight up on the Internet,
+but I much prefer to do so in papers. I could never find some
+number that I really need too. So that's gonna wait for a bit.
+
+Finally it is really nice that I can actually explain what I do
+by just saying it. And people actually understand. For most 
+people this is probably a normal feeling, but as a mathematician
+it's so unusual and great. The non-great part is the fact that
+the short description of what I'm doing is that I'm making
+AdBlock worse. But it's not my fault, it's Google's fault, okay?

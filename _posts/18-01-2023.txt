@@ -1,0 +1,27 @@
+18-01-2023 Finishing up things
+
+It seems as though I'm almost done with a thorough read
+of my first paper during this PhD. And it might be something
+that my work will be related to later. Anyways thorough reads
+are a lot of work and time - this one took me 2 weeks. It
+should get faster as I learn the terminology used in database
+theory, but for now it'll be taking a while.
+
+Also I would like to give an apology to the other 2 notions
+of provenance which I called not pretty or useless in some
+previous blog. Because not every ideal notion is always
+accessible. And this is what the other 2 notions are. They
+aren't the prettiest, but at least they're always computable
+and you can always talk to them about your data. And that's
+very appreciated.
+
+I also just learned that my doctorate school needs to be called
+in order to give me my documents or register me. Sigh! I guess
+I'll do it when I get back home.
+
+And finally I went through some paper that tries to perform
+operations on data which is stored in the compact way. And 
+that's usually cool. But the operations they're performing
+are related to machine learning. I don't know a thing about
+machine learning. I guess I'll have to learn. Or skip that
+part. I like skipping that part.

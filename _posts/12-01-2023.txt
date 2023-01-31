@@ -1,0 +1,36 @@
+12-01-2023 New Year's celebration day I guess?
+
+I feel like I spent a lot of time today not working... 
+Yea, something like 4 hours of my 7,5h day. And that is with
+considering writing this blog as part of my workday, which
+it is to some extend. Hey, it makes me try to put all the
+research I worked on into not only my own words, but words
+that are understandable to a **wider audience** also known as
+my friends.
+
+Anyways, first of all there was a lunch break and those are
+pretty long. In fact when I met a person from Human Resources
+team to explain me how working here looks like, I learnt that
+the lunch break is mandatory and it's supposed to take between
+45 minutes and 2 hours. I'll take that. But that's normal. Then
+I took my standard 15 minute break and I saw some people playing
+table soccer downstairs and someone was winning 1v2 way too
+easily, so I joined his team to nerf him. It worked :P Finally
+I tried to get back to work and then there was some celebration
+when director of this research center was telling us about how
+amazing we did last year and how amazing we are or something.
+Cool. We also got galette, which is some French dessert, it was
+pretty great. And after I came back to my office I noticed that
+I want to leave in an hour. So there went the whole day.
+
+I can still say a couple of things about research, because this
+blog is a bit pointless if I don't? So people that don't explain
+a notation in a definition that's central to the paper are 
+really annoying. And also you can use graphs with fancy labels
+to store data without really harming your ability to ask
+questions about it. And it makes sense to not copy that every
+presentation of Cries and Whispers was directed by Bergman
+(I have no idea about movies, I'm taking that example from a
+book on databases) or Ullman plays in every presentation of
+Cries and Whispers, but storing all the information well
+requires some creativity. Graphical representations are helpful.

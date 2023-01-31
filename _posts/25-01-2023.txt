@@ -1,0 +1,38 @@
+25-01-2023 I am frustrated and going nowhere
+
+So yea... Title. So why do I think that and where does the
+frustration come from? Well first of all, I can't really test
+whether what I understood works. Becuase I can't really write
+code. And by that I mean that I could write code, but I asked
+for a computer with Windows to avoid it. But then I've chosen
+a practical topic, so I'm gonna end up coding things anyway.
+
+Second of all my supervisors are both very busy this week. And
+that's also to be expected and stuff, because I can see their
+calendars and I knew they would be busy. Still annoying.
+Especially because if I actually worked on Monday instead of
+taking a day off I would know that I have those questions and
+have them answered two days ago. Also questions is the wrong
+word. I'd say the word I was looking for is frustrations.
+I have an idea which doesn't really work. Then I have another
+idea, but my algorithm needs to know certain things to realize
+that idea. And I'm very not sure if I can know those things.
+I guess I see how to formulate that as a question, just a long
+one.
+
+And the last one is even more problematic, because there is an
+older PhD student that shares an office with me that worked
+on this stuff before. Past tense very very improtant. And he's
+nice and all, explaining things to me, but I just don't really
+want to bother people asking about things they're not actively
+involved in. Seems polite. Maybe it is really silly. I don't
+want to have someone that doesn't like working with optimizations
+to listen about the optimization I made and tell me whether it
+could work from the technical standpoint. Also it's about the
+experience and stuff. When I came here I really wanted
+mentorship and this is really something I'm looking for in this
+situation. So answering stuff like: do I want to learn coding
+for this project? How much of it? Should I be continuing to
+work on this? Is my idea feasible? Maybe I'm underestimating
+my office-mate, but I really want a supervisor to answer a lot
+of these questions, because I trust them a lot more.
