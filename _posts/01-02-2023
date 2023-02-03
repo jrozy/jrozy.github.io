@@ -1,0 +1,34 @@
+01-02-2023 I like intense thinking
+
+I'm actually writing most of this two days later, but that
+is only because I didn't have my work computer available
+and therefore I couldn't submit those. I wrote down some
+pieces on Wednesday so that's gonna be helpful.
+
+I didn't feel like going to work early, so I decided to
+wake up late and take the morning off. I like having 
+flexible hours and taking days off whenever I want to. 
+Part of why I took the morning off is that I wanted to
+go to some event language school organises to finally talk
+to people in real life, not just by through computer screen.
+
+I dropped my work computer off quite a bit before I left,
+so a lot of what I was doing was done on paper, therefore
+it was mostly creative work. And the creative work was
+really really cool and really really exhausting at the same
+time. Let me describe it. Firstly I took some steps to 
+simplify the problem - I decided to start with just a list
+of words rather than list of words and list of regular
+expressions and I decided to make one, possibly very long
+regular expression of shortest possible length rather
+than few regular expressions which have limited length.
+Then I started looking at how we can compress things well
+and it looks like it's mostly down to common prefixes and
+suffixes that I can use for compression. So I run 1 method
+based on prefixes, the other one based on suffixes. And
+then I found a couple of nasty examples where the compression
+using these methods is far from optimal. And one of those
+examples also said that mixing up the methods won't be
+easy either.
+
+
