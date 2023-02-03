@@ -2,6 +2,81 @@ This is very very scuffed for now, but hopefully I can bother someone at my work
 
 I'll try to keep this blog user-friendly. And hopefully it stays user-friendly for people that don't currently work with me.
 
+
+
+02-02-2023 Technology doesn't work
+
+I am gonna start this on a positive note - the social event
+last night was really really cool. I tried to talk in French,
+Spanish until I finally decided that it's time to stop
+torturing myself and sat down at the English-speaking table.
+And I've met a cool girl there, who was an undergrad that
+is very very passionate about research. That's the "Hello
+me from 3-4 years ago!" moment. I don't think she'll be
+reading this, but maybe some other undergrad that's passionate
+about research will, so I want to drop some advice from my
+own experience. First of all, never give up and never let
+anyone tell you that you need to study instead of trying
+to do research. There is no better way of learning how to
+do research than just doing it. Second piece of advice would
+be that research internships are cool. I only really did one,
+but I've learned a lot about the way I work and what happens
+when you make your passion into a job. Becuase that is a huge
+change. Especially since you somewhat need to keep that
+passion throughout the PhD. And the third one would probably
+be to try things your advisors recommend with an open mind.
+That was something that didn't go all that well during my
+internship and is going very well in my PhD so far. Because
+one obvious truth is that if you're negative about a method
+from the start, then it will never work. That placebo effect
+(or maybe it's reverse placebo?) or whatever that's called.
+
+And that whole piece about advice to young researchers was
+so lengthy mostly becauase I didn't really do anything today
+since I couldn't log onto my computer and I wanted to start
+writing yesterday's stuff down. Because I've learned from
+my internship that I absolutely despise writing a lot at 
+once. So I've got to keep the balance between writing and
+researching. Anyways, I tried to get my computer to work
+for like 4 hours, then gave up and went home, taking the
+afternoon off.
+
+
+01-02-2023 I like intense thinking
+
+I'm actually writing most of this two days later, but that
+is only because I didn't have my work computer available
+and therefore I couldn't submit those. I wrote down some
+pieces on Wednesday so that's gonna be helpful.
+
+I didn't feel like going to work early, so I decided to
+wake up late and take the morning off. I like having 
+flexible hours and taking days off whenever I want to. 
+Part of why I took the morning off is that I wanted to
+go to some event language school organises to finally talk
+to people in real life, not just by through computer screen.
+
+I dropped my work computer off quite a bit before I left,
+so a lot of what I was doing was done on paper, therefore
+it was mostly creative work. And the creative work was
+really really cool and really really exhausting at the same
+time. Let me describe it. Firstly I took some steps to 
+simplify the problem - I decided to start with just a list
+of words rather than list of words and list of regular
+expressions and I decided to make one, possibly very long
+regular expression of shortest possible length rather
+than few regular expressions which have limited length.
+Then I started looking at how we can compress things well
+and it looks like it's mostly down to common prefixes and
+suffixes that I can use for compression. So I run 1 method
+based on prefixes, the other one based on suffixes. And
+then I found a couple of nasty examples where the compression
+using these methods is far from optimal. And one of those
+examples also said that mixing up the methods won't be
+easy either.
+
+
+
 31-01-2023 Arriving too early
 
 So today I've managed to pair up the late departure from
