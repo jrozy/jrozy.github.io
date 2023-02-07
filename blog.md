@@ -2,6 +2,21 @@ This is very very scuffed for now, but hopefully I can bother someone at my work
 
 I'll try to keep this blog user-friendly. And hopefully it stays user-friendly for people that don't currently work with me.
 
+7-02-2023 Feeling sick.
+
+This is gonna be a short one. I don't feel well today
+and it's awful to try to work. My brain just doesn't
+connect any dots.
+
+I didn't make a blog post yesterday because I stayed
+up for way too long. Then I tricked myself into thinking
+that I know how to work from home and it turns out that
+I don't. It's almost like I already knew that.
+
+Also trying to write down a precise description of an
+algorithm is difficult, but more on that tomorrow.
+
+
 03-02-2023 First French course!
 
 So I did my first French course! I was in the beginners
