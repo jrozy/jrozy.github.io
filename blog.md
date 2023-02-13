@@ -2,6 +2,22 @@ This is very very scuffed for now, but hopefully I can bother someone at my work
 
 I'll try to keep this blog user-friendly. And hopefully it stays user-friendly for people that don't currently work with me.
 
+13-02-2023 I'm lost
+
+First of all, I was sick the rest of the last week,
+therefore no blogs, sorry for that.
+
+Today... I don't really know what I was doing today.
+I couldn't really bring myself to focus on anything in
+particular. Might have something to do with the arguments
+that I had with some of my online buddies over the weekend,
+but that was... over the previous weekend I think? I don't
+even exactly remember what the timeline for anything is.
+It feels like there's so much on my mind right now and
+I just need to say STOP to one of the things. Or maybe just
+resolve them one after the other. I'll try the resolving
+thing first. Hopefully tomorrow is better. 
+
 7-02-2023 Feeling sick.
 
 This is gonna be a short one. I don't feel well today
