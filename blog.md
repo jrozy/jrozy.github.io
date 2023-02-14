@@ -2,6 +2,28 @@ This is very very scuffed for now, but hopefully I can bother someone at my work
 
 I'll try to keep this blog user-friendly. And hopefully it stays user-friendly for people that don't currently work with me.
 
+14-02-2023 More new languages
+
+I'd really appreciate it if people stopped writing in languages
+that I don't understand. First French, now some probabilistic
+algorithms. I mindlessly sent some paper on the chat that I
+have with my supervisors because the results there looked
+interesting from the wording even though I'm not sure what
+they meant. And then I found out that these are some
+probabilistic nonsense. And yea, I technically majored in maths
+with speciality in probability. You know what? I despise
+probability. I don't really want to look at that paper.
+I'll probably end up doing so anyways, but what have I gotten
+myself into.
+
+On the bright side I had a meeting with my supervisors today
+and for the first time in a while I was at least partially
+productive after it. Only partially, but it's still something.
+
+I'm not sure how I feel about writing these blogs, it's been
+more annoying than fun recently. But that's probably temporary.
+
+
 13-02-2023 I'm lost
 
 First of all, I was sick the rest of the last week,
