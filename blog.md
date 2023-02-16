@@ -2,6 +2,43 @@ This is very very scuffed for now, but hopefully I can bother someone at my work
 
 I'll try to keep this blog user-friendly. And hopefully it stays user-friendly for people that don't currently work with me.
 
+16-02-2023 Productive morning and terrible papers
+
+Surely you've had the feeling of waking up feeling tired, 
+right? I had that yesterday and decided to first take the
+morning off and since my headache didn't go away after,
+the entire day off. This also means I probably shouldn't
+be taking any more days off in February. But it was really
+really needed. I took an afternoon nap on my day off just
+to wake up something like 6-7 hours later. And that was at
+midnight, attempting to mess up my sleep schedule. It did
+make me feel so much better today.
+
+In the morning I finally did some real creative research
+by first figuring out how to turn an automaton into a
+regular expression and then doing that on some of my examples
+to try to create a short one. And it worked rather well.
+After doing that for 2 hours I decided to set it aside and
+go for a lunch break.
+
+After that lunch break I could not bring myself to think
+though. I spent probably half of the time putting together
+puzzles at the ground floor. I've also met a cool Chilean
+intern there and we talked for a bit. When I finally got to
+go back to working on research papers I got really frustrated,
+because the result I wanted was referenced in a paper and it
+was said to be found in one of the 2 papers. This result
+was about deterministic finite automata (for short DFA) and
+regular expressions. The first referenced paper didn't mention
+a word "automaton" anywhere, whereas the second one didn't
+mention words "regular expression"... How am I supposed to make
+anything out of that? The authors are referencing a result
+and I don't really have doubts that it's true, but it's not
+written down anywhere. Or at least not where they're pointing
+at. So in my mind it isn't proven and doesn't have to be true.
+It's so extremely annoying when someone does that...
+
+
 14-02-2023 More new languages
 
 I'd really appreciate it if people stopped writing in languages
