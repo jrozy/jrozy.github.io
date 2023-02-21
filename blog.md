@@ -2,6 +2,46 @@ This is very very scuffed for now, but hopefully I can bother someone at my work
 
 I'll try to keep this blog user-friendly. And hopefully it stays user-friendly for people that don't currently work with me.
 
+21-02-2023 Only a meeting
+
+So I arrived at work really tired and jumped into a meeting
+almost immediately. Despite that going great - Pierre really
+liked the ideas I had and I disapproved of all his quick 
+solutions - I was super sleepy when I went back to my office.
+I took like an hour nap and then I still felt really tired,
+so I just decided to write a bunch of email, summarize the 
+meeting and take the afternoon off.
+
+20-02-2023 LaTeX templates and some ridiculous sequence
+
+I might have missed some blogs previously, I'm very sorry for
+that, but there are days when I really don't feel like writing.
+Today might also be one of those days since I wanted to come
+back home to watch something, but hey, I'll do a little bit
+of writing anyways.
+
+I was messing around with LaTeX templates today! And they're
+great, I got most of the stuff set up, which feels awesome.
+I just need a fancy script that'll let me use them without
+searching or anything like that. Just to make it the most
+convinient possible for the future. And then I can maybe even
+share it.
+
+I also was trying to count some length of pessymistically
+long regular expressions and... well, for the first part, 
+they can get very long compared to automata, but that's not
+the interesting part. The interesting part is some sequence
+I got is some absurd sequence that neither behaves like a
+polynomial neither as an exponential one and it has a very
+nice pretty and short definition. I looked at it for like
+an hour, because first I miscalculated it and after I
+corrected my mistake, I put it into google while mistyping
+one of the numbers, so it wouldn't give me what it is back.
+Not that this sequence is particularly popular or well-known.
+Which is what makes it really strange and exciting :D
+
+
+
 16-02-2023 Productive morning and terrible papers
 
 Surely you've had the feeling of waking up feeling tired, 
